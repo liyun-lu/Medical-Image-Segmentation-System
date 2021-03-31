@@ -1,2 +1,2 @@
 # Medical-Image-Segmentation-System
-medical-image-segmentation-system
+Intelligent medical image segmentation system is an automatic medical image segmentation software. It can share medical images by uploading data on the web. It uses deep learning, computer image processing and analysis technology to process and analyze medical images. The purpose is to quickly get the segmented medical images, improve the efficiency of image analysis and improve image diagnosis To provide data support for medical diagnosis.
